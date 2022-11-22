@@ -1,6 +1,6 @@
 # Carrinho
 Expresso Pântano
 
-![](https://github.com/Quinteto-Fantastico-2RB/Arduino_AC1/blob/main/AC1.png)
+![](https://github.com/ViPaGaLuMa/Carrinho/blob/main/IMG-20221122-WA0001.jpg)
 
 ## **Sim**
